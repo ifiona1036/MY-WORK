@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(161, 222, 202);
+    margin: 0;
+    padding: 0;
+}
+
+section, header, footer, main{
+    margin: 20px;
+    padding: 20px;
+}
+
+nav ul li {
+    display: inline;
+    padding-left: 10%;
+    font-size: 30px;
+}
+
+h2{
+    color: red;
+    font-size: 30;
+}
+
+h3{
+    color: blueviolet;
+}
+
+footer {
+    background-color: beige;
+    text-align: center;
+}
+
+button {
+    background-color: green;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 24px;
+    font-size: 18px;
+}
+
+button:hover {
+    background-color: blue;
+}
